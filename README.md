@@ -17,12 +17,11 @@
 
 ---
 
-Note: some data will be disclosed after acceptance.
+Note: some data and content will be disclosed after acceptance.
 
 # 📖 Introduction
 
 # ⚙️ Dependencies
-## AdaFact
 ```
 git clone https://github.com/nnroc/AdaFact.git
 conda create -n AdaFact python==3.12
